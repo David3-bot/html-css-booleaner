@@ -10,7 +10,7 @@ h1 {
   h3 {
     margin-bottom: 0px;
     margin-top: 0px;
- color: gray;}
+ color: white;}
   
   h4 {
     margin-top: 0px;
@@ -34,5 +34,23 @@ h1 {
   .td-1 {
     background-color: #B1E5F2 ;
   }
-
+  .sugg {
+    color: white;
+    margin-top: 10px;
+  }
+  
+  .immagine-a {
+    background-image: url(monitor.jpg); 
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .immagine-b {
+    background-image: url(graph.jpg); 
+    width: 210px;
+    height: 160px;
+    padding: 15px;
+  }
 
